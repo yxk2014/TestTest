@@ -1,0 +1,12 @@
+[submodule "Libraries/iHandyThirdParty"]
+	path = Libraries/iHandyThirdParty
+	url = http://git.ihandysoft.com/bingroup/bin_thirdparty_ios.git
+[submodule "Libraries/iHandyCommons"]
+	path = Libraries/iHandyCommons
+	url = http://git.ihandysoft.com/bingroup/bin_common_ios.git
+[submodule "Libraries/iHandyAlerts"]
+	path = Libraries/iHandyAlerts
+	url = http://git.ihandysoft.com/bingroup/bin_alerts_ios.git
+[submodule "Libraries/iHandyAnalytics"]
+	path = Libraries/iHandyAnalytics
+	url = http://git.ihandysoft.com/bingroup/bin_analytics_ios.git
